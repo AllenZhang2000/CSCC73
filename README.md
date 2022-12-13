@@ -1,3 +1,4 @@
 # CSCC73 Materials
 - Assignments and solutions
-- exam papers
+- Past exam papers
+- Two complementary textbooks
